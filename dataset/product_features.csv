@@ -1,0 +1,851 @@
+product_id,total purchases of this product,product price,product is on sale,product is a best seller,discount on product price,primary product category,product subcategory,product category,product collection,product by gender
+01BC500K20,0,30.0,0,0,0.0,Body,not available,Foaming Bath,Karité,female
+01BK010K14,1,9.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01BK150K0,0,39.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01BL012K18,0,9.0,0,0,0.0,Face,not available,Lip balm,Karité,female
+01BL012KC22H,0,9.0,0,0,0.0,Face,not available,Lip balm,Karité,female
+01BM050K23,0,19.0,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01BM150K23,0,29.0,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01BP050K21,0,19.0,0,0,0.0,Body,not available,Foot care,Karité,female
+01BP150K20,0,29.0,0,1,0.0,Body,not available,Foot care,Karité,female
+01BV050K16,0,10.5,1,0,0.3,Face,not available,Face mist,Karité,female
+01CCJ200K22,0,59.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Siempreviva,female
+01CD250K23,0,16.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01CL050K21,1,31.0,0,1,0.0,Face,not available,Facial moisturizers,Karité,female
+01CL175K22,0,39.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01CL200KG22H,0,39.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01CL300KB20,0,20.0,0,0,0.0,Body,not available,All body care products,Karité Bébé,female
+01CM300K23,0,16.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01CM500K20,0,24.0,0,0,0.0,Body,not available,All body care products,Karité,female
+01CMJ075K23,0,29.0,0,0,0.0,not available,not available,not available,Karité,female
+01CP050K22,0,12.0,0,0,0.0,Body,not available,All body care products,Karité,female
+01CP200K22,1,39.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01CPR200K22,1,34.0,0,0,0.0,Body,not available,All body care products,Karité,female
+01CV050K22,0,31.0,0,1,0.0,Face,not available,Facial moisturizers,Karité,female
+01DE050K21,0,17.0,0,0,0.0,Body,not available,Deodorant,Karité,female
+01EC200K22,0,29.0,0,0,0.0,Body,not available,Body scrub,Karité,female
+01EM030K23,0,10.0,0,0,0.0,Hands,not available,Hand scrub,Karité,female
+01HD075K18,0,7.5,0,0,0.0,Travel,not available,Body care in travel format,Karité,female
+01HD250K17,0,20.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01HD500K20,0,35.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01HDR500K20,0,21.7,1,0,0.30000000000000004,Body,not available,All body care products,Karité,female
+01HF100K17,0,30.0,0,0,0.0,Body,not available,Body oil,Karité,female
+01HN0075K23,0,15.0,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01HV030K23,0,34.0,0,0,0.0,Face,not available,Serum & Face Oil,Karité,female
+01LC075K17,0,8.4,1,0,0.19999999999999996,Travel,not available,Body care in travel format,Karité,female
+01LC250K17,0,29.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01LC250K23,0,23.2,1,0,0.2,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01LH300KB19,0,29.0,0,0,0.0,Body,not available,All body care products,Karité Bébé,female
+01LT300K20,0,29.0,0,1,0.0,Hands,not available,All hand care products,Karité,female
+01LTV300K20,0,29.0,0,0,0.0,Body,Beauty Concerns,Our L'OCCITANE Clean Charter Body products,Karité,female
+01MA030K22,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01MA150K22,3,24.0,0,1,0.0,Hands,not available,Hand cream,Karité,female
+01MC030K14,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01MR030K14,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01MV030K14,0,6.8,1,0,0.2,Hands,not available,Hand cream,Karité,female
+01PI030K18,0,8.5,0,0,0.0,Body,not available,Foot care,Karité,female
+01PI150K18,0,24.0,0,1,0.0,Body,not available,Foot care,Karité,female
+01PR015R21,4,12.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01PR100R21,0,39.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01RL500K20,0,21.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,Karité,female
+01RV500K20,0,21.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,Karité,female
+01SA100LT20,0,6.0,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA100LV20,1,6.0,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA100VE20,0,6.0,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA250LT20,1,9.5,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA250LV20,0,9.5,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA250VE20,0,9.5,0,0,0.0,Body,not available,Solid Soap,Karité,female
+01SA300KRO22,0,16.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01SL0045K13,0,7.2,1,0,0.19999999999999998,Face,not available,Lip balm,Karité,female
+01SL300VE20,0,16.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+01SL500LV20,13,24.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+01SL500VE20,1,24.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+10CALGREEN22,0,79.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+10KTPWPXM21,0,30.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+10ORMEN22,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Cade,male
+11AS040SG22,0,12.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+11AT050HL23,1,32.0,0,1,0.0,Hair,not available,Scalp Care,Aromacología,female
+11BG140CS19,0,24.0,0,0,0.0,Home,not available,Scented Candles,Art de Vivre,female
+11BG140SH19,0,24.0,0,0,0.0,Home,not available,Scented Candles,Art de Vivre,female
+11BG140SI19,0,24.0,0,0,0.0,Home,not available,Scented Candles,Art de Vivre - Hogar,female
+11BGFI240C19,0,60.0,0,0,0.0,Home,not available,Scented Candles,L'OCCITANE x Pierre Hermé,female
+11BO100CS19,5,20.0,0,1,0.0,Home,not available,Home perfumes,Art de Vivre,female
+11BP100I19,0,16.0,1,0,0.2,Face,not available,Make-up removers,Infusion,female
+11BS020K23,0,6.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+11CA075AT23,0,39.0,0,0,0.0,Body,Beauty Concerns,Skin firming & toning,Alcachofa,female
+11CD050A18,0,31.0,0,1,0.0,Face,not available,Facial moisturizers,Aqua Réotier,female
+11CF100TR19,0,29.0,0,0,0.0,Home,not available,Perfume diffusers,Art de Vivre - Hogar,female
+11CM030H19,0,8.5,0,0,0.0,Hands,not available,Hand cream,Herbae par L'OCCITANE,female
+11CM030H20,0,6.8,1,0,0.24444444444444446,Hands,not available,All hand care products,Herbae par L'OCCITANE,female
+11CM030H23,0,6.0,1,0,0.3333333333333333,Hands,not available,All hand care products,Herbae par L'OCCITANE,female
+11CM030O21,1,8.5,0,0,0.0,Hands,not available,Hand cream,Osmanthus,female
+11CM125I19,0,16.0,1,0,0.2,Face,not available,Facial cleansers,Infusion,female
+11CM200AT23,0,54.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Alcachofa,female
+11CS150P23,0,24.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+11EC015A20,0,19.2,1,0,0.20000000000000004,Face,not available,All facial care,Aqua Réotier,female
+11EC200AT23,0,44.0,0,0,0.0,Body,not available,Body scrub,Alcachofa,female
+11EH150A18,0,22.0,0,0,0.0,Face,not available,All facial care,Aqua Réotier,female
+11EMI006I19,1,4.5,0,0,0.0,Face,not available,Facial scrubs,Infusion,female
+11EMI075I19,0,29.0,0,1,0.0,Face,not available,Facial scrubs,Infusion,female
+11EMP006I19,0,4.5,0,0,0.0,Face,not available,Face Mask,Infusion,female
+11EMP075I19,0,29.0,0,0,0.0,Face,not available,Face Masks,Infusion,female
+11EMR006I20,0,4.5,0,0,0.0,Face,not available,Face Masks,Infusion,female
+11EMR075I20,0,29.0,0,0,0.0,Face,not available,Face Masks,Infusion,female
+11EP010H19,0,22.0,0,0,0.0,Perfume,not available,All perfumes,Herbae par L'OCCITANE,female
+11EP050H19,0,55.2,1,1,0.19999999999999996,Perfume,not available,Eau de parfum,Herbae par L'OCCITANE,female
+11EP090CN18,0,120.0,0,0,0.0,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+11EP090CR18,0,120.0,0,0,0.0,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+11EP090FR18,0,120.0,0,0,0.0,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+11EP090RS18,0,120.0,0,0,0.0,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+11ET010H20,0,22.0,0,0,0.0,Perfume,not available,All perfumes,Herbae par L'OCCITANE,female
+11ET050H20,0,65.0,0,0,0.0,Perfume,not available,Eau de toilette,Herbae par L'OCCITANE,female
+11ET075O21,0,56.0,0,0,0.0,Perfume,not available,Eau de toilette,Osmanthus,female
+11FAG10TR19,1,4.0,0,0,0.0,Home,not available,Perfume diffusers,Art de Vivre,female
+11GD050A18,0,31.0,0,1,0.0,Face,not available,Facial moisturizers,Aqua Réotier,female
+11GD050H19,0,6.0,0,0,0.0,Travel,not available,Body care in travel format,Herbae par L'OCCITANE,female
+11GD050H20,0,6.0,0,0,0.0,Body,not available,All body care products,Herbae par L'OCCITANE,female
+11GD075O21,0,4.8,1,0,0.20000000000000004,Travel,not available,Body care in travel format,Osmanthus,female
+11GD250H19,0,16.0,0,0,0.0,Body,not available,Shower gel,Herbae par L'OCCITANE,female
+11GD250H20,0,12.8,1,0,0.19999999999999996,Body,not available,Shower gel,Herbae par L'OCCITANE,female
+11GD250O21,0,16.0,0,0,0.0,Body,not available,Shower gel,Osmanthus,female
+11GE075I20,0,17.6,1,0,0.19999999999999993,Face,not available,All facial care,Infusion,female
+11GM200I19,0,20.0,0,0,0.0,Face,not available,Facial cleansers,Infusion,female
+11GN195A18,0,16.0,1,0,0.2,Face,not available,Facial cleansers,Aqua Réotier,female
+11LB050HF22,0,5.4,1,0,0.39999999999999997,SALE,not available,Discounted Products,Herbae par L'OCCITANE,female
+11LB250HF22,0,20.0,1,0,0.2,SALE,not available,Discounted Products,Herbae par L'OCCITANE,female
+11LC050H19,0,9.0,0,0,0.0,Travel,not available,Body care in travel format,Herbae par L'OCCITANE,female
+11LC050H20,0,9.0,0,0,0.0,Body,not available,All body care products,Herbae par L'OCCITANE,female
+11LC075NO23,0,9.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Neroli Orquídea,female
+11LC250H19,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Herbae par L'OCCITANE,female
+11LC250H20,0,25.0,0,0,0.0,Body,not available,All body care products,Herbae par L'OCCITANE,female
+11LC250O21,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Osmanthus,female
+11LD200I19,0,20.0,0,0,0.0,Face,not available,Make-up removers,Infusion,female
+11LH200I19,0,20.0,0,0,0.0,Face,not available,Make-up removers,Infusion,female
+11LT300I20,0,24.0,0,0,0.0,Face,not available,Make-up removers,Infusion,female
+11MA030NO22H,0,8.5,0,0,0.0,Hands,not available,Hand cream,Neroli Orquídea,female
+11MH075A19,0,27.2,1,0,0.2,Face,not available,All facial care,Aqua Réotier,female
+11MWC200I19,0,20.0,0,0,0.0,Face,not available,Make-up removers,Infusion,female
+11PEP050I20,0,15.4,1,0,0.3,Face,not available,All facial care,Infusion,female
+11PM100SH19,0,26.0,0,0,0.0,Home,not available,All Household Products,Art de Vivre - Hogar,female
+11PM100SI19,0,26.0,0,0,0.0,SALE,not available,Discounted Products,Art de Vivre,female
+11PSR100T20,0,32.0,0,0,0.0,Body,not available,All body care products,Art de Vivre - Hogar,female
+11SA050O21,0,5.0,0,0,0.0,Body,not available,All body care products,Osmanthus,female
+11SA100H20,0,6.0,0,0,0.0,Body,not available,Solid Soap,Herbae par L'OCCITANE,female
+11SA100H23,0,6.0,0,0,0.0,Body,not available,Solid Soap,Herbae par L'OCCITANE,female
+11SAF100H20,0,6.0,0,0,0.0,Body,not available,Solid Soap,Herbae par L'OCCITANE,female
+11SD100CS19,1,16.0,0,0,0.0,Home,not available,Perfume diffusers,Art de Vivre,female
+11SD100SH19,0,12.8,1,0,0.19999999999999996,Home,not available,All Household Products,Art de Vivre - Hogar,female
+11SD100SI19,0,13.6,1,0,0.15000000000000002,SALE,not available,Discounted Products,Art de Vivre - Hogar,female
+11SH080DP23,1,22.0,0,0,0.0,Hair,not available,Scalp Care,Aromacología,female
+11SH300AD22,1,22.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+11SP125P22,0,24.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+11SP200CS19,0,14.0,0,0,0.0,Body,not available,Solid Soap,Art de Vivre,female
+11SP200SH19,0,11.2,1,0,0.20000000000000004,SALE,not available,Discounted Products,Art de Vivre,female
+11SP200SI19,0,11.2,1,0,0.20000000000000004,SALE,not available,Discounted Products,Art de Vivre,female
+11SR075P21,0,29.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+11SV080I19,0,15.3,1,0,0.14999999999999997,SALE,not available,Discounted Products,Infusion,female
+12ET075NO22,0,60.0,0,1,0.0,Perfume,not available,Eau de toilette,Neroli Orquídea,female
+12LC075NO22,0,9.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Neroli Orquídea,female
+12MA030NO21H,0,4.25,1,0,0.46875,Hands,not available,Hand cream,Neroli Orquídea,female
+12MA030NO22,0,8.5,0,0,0.0,Body,not available,All body care products,Nerolí Orquídea,female
+12MA075NO22,0,19.0,0,0,0.0,Hands,not available,Hand cream,Neroli Orquídea,female
+15AS250VA18,0,15.3,1,0,0.14999999999999997,Hair,not available,All hair care products,Verbena,female
+15BA100L16A,0,9.0,0,0,0.0,Body,not available,All body care products,Lavanda,female
+15BA500L16A,0,30.0,0,1,0.0,Body,not available,Foaming Bath,Lavanda,female
+15BM500VB21,0,30.0,0,0,0.0,Body,not available,Foaming Bath,Verbena,female
+15BR050VB21,0,16.0,0,0,0.0,Perfume,not available,Body fragrances,Verbena,female
+15DF200VBL21,0,8.0,1,0,0.4666666666666667,Body,not available,Shower gel,Verbena,female
+15DO050VA22,4,17.0,0,0,0.0,Body,not available,Deodorant,Verbena,female
+15EC300L11,0,56.0,0,0,0.0,Perfume,Perfumes for Women,Aromatic perfumes,Lavanda,female
+15ET010VB19,1,19.5,0,0,0.0,Perfume,not available,Eau de toilette,Verbena,female
+15ET100VA20,1,56.0,0,1,0.0,Perfume,not available,Eau de toilette,Verbena,female
+15ET100VB23,0,56.0,0,1,0.0,Perfume,not available,Eau de toilette,Verbena,female
+15GC200VB21,0,25.0,0,0,0.0,Body,not available,Body scrub,Verbena,female
+15GD075L21,1,6.0,0,0,0.0,Body,not available,Shower gel,Lavanda,female
+15GD250L14,0,16.0,0,0,0.0,Body,not available,Shower gel,Lavanda,female
+15GD250L21,0,16.0,0,0,0.0,Body,not available,Shower gel,Lavanda,female
+15GD250VA20,0,16.0,0,0,0.0,Body,not available,Shower gel,Verbena,female
+15GD250VB21,0,16.0,0,1,0.0,Body,not available,Shower gel,Verbena,female
+15GN300L21,0,16.0,0,0,0.0,Body,not available,All body care products,Lavanda,female
+15GS150VBL22,0,14.7,1,0,0.41200000000000003,SALE,not available,Discounted Products,Verbena,female
+15HE005L14,0,15.0,0,0,0.0,Home,not available,All Household Products,Aromacología,female
+15LC070VB5,0,9.0,0,0,0.0,Travel,not available,Body care in travel format,Verbena,female
+15LC250L14,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Lavanda,female
+15LC250LM22,0,21.0,1,0,0.3,Body,not available,All body care products,Lavanda,female
+15LC250VA20,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+15LC250VB3,0,25.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+15LM300L11,0,23.2,1,0,0.2,Hands,not available,Hand cream,Lavanda,female
+15MA030L21,0,8.5,0,0,0.0,Hands,not available,Hand cream,Lavanda,female
+15MA030VA5,0,8.5,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15MA030VB3,0,8.5,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15MA030VBL22,0,5.1,1,0,0.43333333333333335,SALE,not available,Discounted Products,Verbena,female
+15MA030VBM8,0,8.5,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15MA075L20,0,19.0,0,0,0.0,Hands,not available,Hand cream,Lavanda,female
+15MA075LM22,0,15.2,1,0,0.20000000000000004,SALE,not available,Discounted Products,Lavanda,female
+15MA075VB4,0,19.0,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15MO100LM22,0,30.0,0,0,0.0,Body,not available,Body oil,Lavanda,female
+15RB500L17,0,25.0,0,0,0.0,Body,not available,Foaming Bath,Lavanda,female
+15RC500VB21,0,24.5,0,1,0.0,Body,not available,Eco-recharges de cuerpo,Verbena,female
+15RG500L14,0,14.7,1,1,0.30000000000000004,Hands,not available,Hand Soap,Lavanda,female
+15RG500VA20,4,24.5,0,1,0.0,Body,not available,Shower gel,Verbena,female
+15SA075VB21,0,6.0,0,0,0.0,Body,not available,Solid Soap,Verbena,female
+15SH250VA20,0,18.0,0,0,0.0,Hair,not available,Shampoos,Verbena,female
+15SH500VB3,0,23.1,1,0,0.3583333333333333,Hair,not available,Shampoos,Verbena,female
+15SS150L20,0,10.0,0,0,0.0,Body,not available,All body care products,Lavanda,female
+17AF100G20,0,24.0,0,0,0.0,Hair,not available,Hair styling products,Aromacología,female
+17AP100E21,0,24.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+17AS075E19,0,8.5,0,0,0.0,Travel,not available,Travel size hair care products,Aromacología,female
+17AS075FV21,0,8.5,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS075G21,0,8.5,0,0,0.0,Hair,not available,Travel size products,Aromacología,female
+17AS075P19,1,8.5,0,0,0.0,Travel,not available,Travel size hair care products,Aromacología,female
+17AS250E19,0,22.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS250FV21,0,22.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS250G21,0,22.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS250P19,1,22.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS500E19,0,39.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS500FV21,0,39.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS500G21,0,39.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17AS500P19,0,39.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+17DO050F13,0,17.0,0,0,0.0,Body,not available,All body care products,Aromacología,female
+17HB050A22,0,32.0,0,0,0.0,Hair,not available,Scalp Care,Aromacología,female
+17HI050G20,0,19.5,0,0,0.0,Hair,not available,Hair oils,Aromacología,female
+17HI100G19,0,32.0,0,0,0.0,Hair,not available,Hair oils,Aromacología,female
+17MC200G21,1,32.0,0,0,0.0,Hair,not available,Hair masks,Aromacología,female
+17MC200N18,0,30.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+17MM050A20,0,12.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+17MM050B19,0,12.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+17MM050FM19,0,9.6,1,0,0.20000000000000004,Hair,not available,Hair masks,Aromacología,female
+17MM050H19,0,8.4,1,0,0.3,Hair,not available,All hair care products,Aromacología,female
+17RC500G21,0,33.0,0,1,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17RC500P19,0,33.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+17RS500E20,0,22.4,1,0,0.20000000000000004,Hair,not available,Hair Eco-recharges,Aromacología,female
+17RS500FV21,2,28.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17RS500G21,1,28.0,0,1,0.0,Hair,not available,Hair Eco-recharges,Aromacología,female
+17RS500P19,2,28.0,0,1,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH060SE21,0,12.0,0,0,0.0,Hair,not available,Solid Shampoos,Aromacología,female
+17SH060SG21,0,12.0,0,0,0.0,Hair,not available,Solid Shampoos,Aromacología,female
+17SH060SP21,0,12.0,0,0,0.0,Hair,not available,Solid Shampoos,Aromacología,female
+17SH075E19,0,7.0,0,0,0.0,Travel,not available,Travel size hair care products,Aromacología,female
+17SH075FV21,0,7.0,0,0,0.0,Hair Care,not available,Shampoo,Aromacología,female
+17SH075G21,0,7.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH075P19,1,7.0,0,0,0.0,Travel,not available,Travel size hair care products,Aromacología,female
+17SH300E19,4,22.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH300FV21,7,22.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH300G21,2,22.0,0,1,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH300P19,2,22.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH500E19,1,33.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH500FV21,0,33.0,0,1,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH500G21,2,33.0,0,1,0.0,Hair,not available,Shampoos,Aromacología,female
+17SH500P19,1,33.0,0,0,0.0,Hair,not available,Shampoos,Aromacología,female
+18BI030TL17ET,0,9.0,0,0,0.0,Body,not available,All body care products,Terre de Lumière,female
+20AR030HC20,0,13.5,0,0,0.0,Men's,not available,Shaving & aftershave,Cap Cédrat,male
+20AR030O20,1,13.5,0,0,0.0,Men's,not available,Shaving & aftershave,L'OCCITANE,male
+20AR075BX20,0,30.0,0,0,0.0,Men's,not available,Shaving & aftershave,Baux,male
+20AR075CD20,0,30.0,0,0,0.0,Men's,not available,Shaving & aftershave,Eau de Cédrat,male
+20AR075H20,2,30.0,0,1,0.0,Men's,not available,Shaving & aftershave,Cade,male
+20AR075HC20,0,30.0,0,0,0.0,Men's,not available,Shaving & aftershave,Cap Cédrat,male
+20AR075O20,0,30.0,0,0,0.0,Men's,not available,Shaving & aftershave,L'OCCITANE,male
+20BT075H20,1,24.0,0,0,0.0,Men's,not available,Shaving & aftershave,Cade,male
+20CR150H20,0,20.0,0,0,0.0,Men's,not available,Men's Face Care,Cade,male
+20DO050O20,1,17.0,0,0,0.0,Body,not available,Deodorant,L'OCCITANE,female
+20DO075BX20,0,17.0,0,0,0.0,Men's,not available,Men's deodorant,Baux,male
+20DO075CD20,1,17.0,0,0,0.0,Body,not available,Deodorant,Eau de Cédrat,female
+20DO130HC20,0,16.0,1,0,0.2,Body,not available,All body care products,Cap Cédrat,female
+20ET075BX20,1,56.0,0,1,0.0,Perfume,Perfumes for Men,All men's perfumes,Baux,female
+20ET075CD21,0,56.0,0,0,0.0,Men's,not available,Perfume & Eau de Toilette for men,Eau de Cédrat,male
+20ET075HC20,0,56.0,0,1,0.0,Perfume,Perfumes for Men,All men's perfumes,Cap Cédrat,female
+20ET075OC20,0,56.0,0,1,0.0,Perfume,Perfumes for Men,All men's perfumes,L'OCCITANE,female
+20EWO75M21,0,75.0,0,0,0.0,Perfume,not available,Eau de parfum,La Collection Prestige,male
+20FE050H20,0,31.0,0,0,0.0,Men's,not available,Men's Face Care,Cade,male
+20FO075M21,0,75.0,0,0,0.0,Perfume,not available,Eau de parfum,La Collection Prestige,male
+20GD075BX20,0,6.0,0,0,0.0,Travel,not available,Body care in travel format,Baux,female
+20GD075CD20,0,6.0,0,0,0.0,Body,not available,Shower gel,Eau de Cédrat,female
+20GD075HC20,0,6.0,0,0,0.0,Travel,not available,Body care in travel format,Cap Cédrat,female
+20GD075OC20,0,6.0,0,0,0.0,Travel,not available,Body care in travel format,L'OCCITANE,female
+20GD250BX20,0,16.0,0,0,0.0,Body,Beauty Concerns,Our L'OCCITANE Clean Charter Body products,Baux,female
+20GD250CD20,0,16.0,0,0,0.0,Body,not available,Shower gel,Eau de Cédrat,female
+20GD250HC20,1,16.0,0,1,0.0,Body,not available,Shower gel,Cap Cédrat,female
+20GD250OC20,0,16.0,0,1,0.0,Body,not available,Shower gel,L'OCCITANE,female
+20GD500HC20,0,24.5,0,0,0.0,Men's,not available,Men's body care,Cap Cédrat,male
+20GD500O20,0,24.5,0,0,0.0,Men's,not available,Men's body care,L'OCCITANE,male
+20HR050H20,0,45.0,0,1,0.0,Face,not available,Facial moisturizers,Cade,female
+20MA050CA22,0,19.0,0,0,0.0,Hands,not available,All hand care products,Cade,female
+20NV150H20,0,20.0,0,0,0.0,Men's,not available,Men's Face Care,Cade,male
+20OR075M21,0,75.0,0,0,0.0,Perfume,not available,Eau de parfum,La Collection Prestige,male
+20PM050H20,0,24.0,0,0,0.0,Hair,not available,All hair care products,Cade,female
+20PR001M20,0,15.0,1,0,0.5,Men's,not available,All men's body care products,Cade,male
+20SA050CD20,0,5.0,0,0,0.0,Body,not available,Solid Soap,Eau de Cédrat,female
+20SA050HC20,0,5.0,0,0,0.0,Body,not available,Solid Soap,Cap Cédrat,female
+20SB100H20,0,15.0,0,0,0.0,Men's,not available,Shaving & aftershave,Cade,male
+23EP050AM22,0,60.0,0,0,0.0,Perfume,Perfumes for Women,Women's Amber Perfumes,Les Classiques,female
+23EP050IP22,0,60.0,0,0,0.0,Perfume,Perfumes for Women,Women's Amber Perfumes,Les Classiques,female
+23ET050AR22,0,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050GT22,2,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050JB22,0,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050JI22,1,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050PI22,0,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050PR22,0,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+23ET050RR22,0,55.0,0,0,0.0,Perfume,not available,All perfumes,Les Classiques,female
+24AF050R18,0,29.4,1,0,0.30000000000000004,Perfume,not available,Eau de toilette,Rosa,female
+24AS240R22,0,14.4,1,0,0.19999999999999998,Hair,not available,Hair Conditioners,Rosa,female
+24BL012CB22,0,9.0,0,0,0.0,Face,not available,Lip balm,Flores de Cerezo,female
+24BL012R22,1,9.0,0,0,0.0,Face,not available,Lip balm,Rosa,female
+24BR050R22,0,12.8,1,0,0.19999999999999996,not available,not available,not available,Rosa,female
+24ET050CBL22,0,36.0,1,0,0.14285714285714285,SALE,not available,Discounted Products,Flores de Cerezo,female
+24ET075CB21,1,56.0,0,1,0.0,Perfume,not available,Eau de toilette,Flores de Cerezo,female
+24ET075R22,1,60.0,0,0,0.0,Perfume,Perfumes for Women,All women's perfumes,Rosa,female
+24GD075CB22,0,6.0,0,0,0.0,Body,not available,All body care products,Flores de Cerezo,female
+24GD250CB21,0,16.0,0,0,0.0,Body,not available,Shower gel,Flores de Cerezo,female
+24GD250R22,0,16.0,0,0,0.0,Body,not available,Shower gel,Rosa,female
+24GD500R22,0,28.0,0,0,0.0,Body,not available,Shower gel,Rosa,female
+24LC075CB21,0,9.0,0,0,0.0,Perfume,not available,Body fragrances,Flores de Cerezo,female
+24LC075R22,0,9.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Rosa,female
+24LC250CB21,0,25.0,0,1,0.0,Body Care,not available,Shower gel,Flores de Cerezo,female
+24LC250R22,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Rosa,female
+24MA030CB21,1,8.5,0,0,0.0,Hands,not available,Hand cream,Flores de Cerezo,female
+24MA030P15,0,6.8,1,0,0.2,Hands,not available,Hand cream,Pivoine,female
+24MA030P21,0,5.95,1,0,0.3,Hands,not available,Hand cream,Pivoine,female
+24MA030R22,0,8.5,0,0,0.0,Hands,not available,Hand cream,Rosa,female
+24MA075CB21,0,19.0,0,0,0.0,Hands,not available,Hand cream,Flores de Cerezo,female
+24MA075P15,0,19.0,0,0,0.0,Hands,not available,Hand cream,Pivoine,female
+24MA075P21,0,15.2,1,0,0.20000000000000004,Hands,not available,All hand care products,Pivoine,female
+24MA075R22,0,19.0,0,0,0.0,Hands,not available,Hand cream,Rosa,female
+24MA150R22,1,24.0,0,0,0.0,Hands,not available,Hand cream,Rosa,female
+24PG010R022,0,16.0,0,0,0.0,Perfume,not available,Eau de toilette,Rosa,female
+24RG500CB21,0,24.5,0,0,0.0,Perfume,not available,Perfumed body care,Flores de Cerezo,female
+24RO010CB21,0,20.0,0,0,0.0,Perfume,not available,All perfumes,Flores de Cerezo,female
+24SA050CB21,0,5.0,0,0,0.0,Hands,not available,Hand Soap,Flores de Cerezo,female
+24SA050R22,0,5.0,0,0,0.0,Body,not available,Solid Soap,Rosa,female
+24SH240R22,0,18.0,0,0,0.0,Hair,not available,All hair care products,Rosa,female
+25SA100CM21,0,6.0,0,0,0.0,Body,not available,Solid Soap,Bonne Mère,female
+25SA100EP21,1,6.0,0,0,0.0,Body,not available,Solid Soap,Bonne Mère,female
+25SA100RB21,0,6.0,0,0,0.0,Body,not available,Solid Soap,Bonne Mère,female
+25SA100RS21,1,6.0,0,0,0.0,Body,not available,Solid Soap,Bonne Mère,female
+25SA100TO21,0,6.0,0,0,0.0,Body,not available,Solid Soap,Bonne Mère,female
+27BY015I22,0,42.0,0,0,0.0,Face,not available,Eye Contour,Preciosa Siempreviva,female
+27CP050I22,1,59.0,0,1,0.0,Face,not available,Facial moisturizers,Preciosa Siempreviva,female
+27DB015I20,0,67.0,0,1,0.0,Face,not available,Eye Contour,Divina Siempreviva,female
+27DC050I20,0,91.0,0,1,0.0,Face,not available,Face Moisturizer,Divina Siempreviva,female
+27DE015I21,0,64.0,0,1,0.0,Face,not available,Eye Contour,Divina Siempreviva,female
+27DH030I22,0,94.0,0,1,0.0,Face,not available,Serum & Face Oil,Divina Siempreviva,female
+27DL200I21,0,42.0,0,0,0.0,Face,not available,Facial cleansers,Divina Siempreviva,female
+27DS030I20,0,97.0,0,1,0.0,Face,not available,Serum & Face Oil,Divina Siempreviva,female
+27ER015I22,1,55.0,0,0,0.0,Face,not available,Eye Contour,Reset Siempreviva,female
+27ER150I21,0,75.0,0,0,0.0,Face,not available,Face cleanser & toner,Reset Siempreviva,female
+27ER200I22,0,25.0,0,0,0.0,Face,not available,Facial cleansers,Preciosa Siempreviva,female
+27EV200I22,0,22.0,0,0,0.0,Face,not available,Facial cleansers,Preciosa Siempreviva,female
+27HCR050I16,0,135.0,0,0,0.0,Face,not available,Face Moisturizer,Harmonie Siempreviva,female
+27HS030I18,0,170.0,0,0,0.0,Face,not available,Serum & Face Oil,Harmonie Siempreviva,female
+27HSR030I16,0,145.0,0,0,0.0,Face,not available,Serum & Face Oil,Harmonie Siempreviva,female
+27HU030I21,0,79.9,1,0,0.14999999999999994,SALE,not available,Discounted Products,Divina Siempreviva,female
+27MC125I23,1,35.0,0,0,0.0,Face,not available,Facial cleansers,Divina Siempreviva,female
+27MII150I22,0,25.0,0,0,0.0,Face,not available,Make-up removers,Preciosa Siempreviva,female
+27MP150I22,0,25.0,0,0,0.0,Face,not available,Make-up removers,Preciosa Siempreviva,female
+27MS050I20,0,44.0,1,0,0.2,Face,not available,All facial care,Preciosa Siempreviva,female
+27OR030I21,0,62.0,0,1,0.0,Face,not available,Serum & Face Oil,Reset Siempreviva,female
+27OR050I21,0,89.0,0,1,0.0,Face,not available,Serum & Face Oil,Reset Siempreviva,female
+27SE075I22,0,59.0,0,0,0.0,Face,not available,Facial moisturizers,Preciosa Siempreviva,female
+29ASH075A20,0,6.0,1,0,0.2,Hair,not available,Hair Conditioners,Almendra,female
+29ASH240A20,0,14.4,1,0,0.19999999999999998,Hair,not available,Hair Conditioners,Almendra,female
+29BL500A20,0,30.0,0,0,0.0,Body,not available,Foaming Bath,Almendra,female
+29BP100A22,0,30.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+29EC200A22,0,39.0,0,0,0.0,Body,not available,Body scrub,Almendra,female
+29GE200A22,0,20.0,0,0,0.0,Body,not available,Shower gel,Almendra,female
+29HD075A15,0,7.5,0,0,0.0,Travel,not available,Body care in travel format,Almendra,female
+29HD250A15,3,20.0,0,1,0.0,Body,not available,Shower gel,Almendra,female
+29HD500A15,0,35.0,0,1,0.0,Body,not available,Shower gel,Almendra,female
+29HS100A21,1,39.0,0,1,0.0,Body,not available,Body oil,Almendra,female
+29LC050A20,0,14.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+29LC200A22,1,46.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+29MA030A17,0,8.5,0,0,0.0,Hands,not available,Hand cream,Almendra,female
+29MA075A21,0,19.0,0,0,0.0,Hands,not available,Hand cream,Almendra,female
+29RC200A22,0,39.0,0,1,0.0,Body,not available,Eco-recharges de cuerpo,Almendra,female
+29RH500A23,5,31.0,0,0,0.0,Body,not available,Shower gel,Almendra,female
+29SA050A22,0,5.0,0,0,0.0,Body,not available,Solid Soap,Almendra,female
+29SE125A21,0,12.0,0,0,0.0,Body,not available,Body scrub,Almendra,female
+29SH075A20,0,7.0,0,0,0.0,Hair,not available,Shampoos,Almendra,female
+29SH240A20,0,14.4,1,0,0.19999999999999998,Hair,not available,Shampoos,Almendra,female
+29VC240A22,1,35.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+38BV050A22,0,18.0,0,0,0.0,Face,not available,Facial mists,Reine Blanche,female
+38EV075A21,1,34.0,0,0,0.0,Face,not available,All facial care,Reina Blanca,female
+38FT200A21,0,39.0,0,0,0.0,Face,not available,All facial care,Reina Blanca,female
+38SC015RB23,0,62.0,0,0,0.0,Face,not available,Night creams,Reina Blanca,female
+38UV030A18,0,39.0,0,0,0.0,Face,not available,Serum & Face Oil,Reina Blanca,female
+38WC050A21,0,59.0,0,0,0.0,Face,not available,Facial moisturizers,Reina Blanca,female
+38WS030A21,0,65.0,0,0,0.0,Face,not available,Serum & Face Oil,Reina Blanca,female
+49SOBOX22,1,4.0,0,0,0.0,Hair,not available,Solid Shampoos,Accesorios,female
+CWOC000003897,0,8.4,1,0,0.19999999999999996,Gifts,not available,Body Gift Boxes,,female
+CWOC000003930,0,27.2,1,0,0.07796610169491527,Gifts,not available,Body Gift Boxes,,female
+CWOC000003948,0,21.2,1,0,0.20000000000000004,Gifts,not available,Face Gift Boxes,,female
+CWOC000004024,0,15.6,1,0,0.2,Gifts,not available,Face Gift Boxes,,female
+CWOC000004158,0,23.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+CWOC000004166,0,32.5,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+CWOC000004303,0,25.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004327,0,16.8,1,0,0.19999999999999996,SALE,not available,Discounted Gift Boxes & Kits,Karité,female
+CWOC000004330,0,19.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Flores de Cerezo,female
+CWOC000004332,0,19.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Almendra,female
+CWOC000004345,0,23.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004457,0,17.5,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+CWOC000004537,0,22.5,0,0,0.0,Gifts,not available,All Gift Boxes,Aromacología,female
+PPL1MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPL2EST50023W,3,5.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,Verbena,female
+PPL2G20ARTIC23W,0,13.0,1,0,0.1875,Gifts,not available,Body Gift Boxes,,female
+PPL2G75SEP22W,0,25.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+PPL2MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda,female
+PPL2PWPSEP22W,0,17.0,1,0,0.24444444444444444,Gifts,not available,Body Gift Boxes,,female
+PPL2TRISAV23W,0,15.5,1,0,0.1388888888888889,Gifts,not available,Body Gift Boxes,Bonne Mère,female
+PPL3MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPL4MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPL500ASREP21W,0,72.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPL5MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda,female
+PPL6MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPL7MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPL8MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda,female
+PPL9MP22W,0,18.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPLADDIKIT22W,0,49.0,1,0,0.17647058823529413,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLALMDTW23W,0,12.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Almendra,female
+PPLBF110N22W,0,30.0,1,0,0.21052631578947367,Gifts,not available,Body Gift Boxes,,female
+PPLBOXSA122W,0,10.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLBOXSA222W,1,16.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLBOXSA322W,0,18.5,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLCAPCED22W,0,64.0,1,0,0.20987654320987653,SALE,not available,Discounted Gift Boxes & Kits,,female
+PPLCAPCEDN22W,0,65.0,1,0,0.15584415584415584,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPLCBDBODY23W,0,38.0,1,0,0.2,Gifts,not available,Perfume Gift Boxes,Lavanda,female
+PPLCEDRAN22W,1,49.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Cap Cédrat,female
+PPLCLEAN23W,0,38.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Aromacología,female
+PPLCRAFDCN22W,0,11.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+PPLCRAKARN22W,0,9.0,1,0,0.25,Gifts,What do you look for?,Gift Ideas,,female
+PPLCRAVERN22W,0,8.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+PPLCRMHCECODUO23,0,50.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLDUO2SLVER20W,0,37.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,,female
+PPLDUOAS5FRA19W,0,72.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOASFRAI19W,0,55.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOBAUXFP21W,0,33.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOBMLAV19V,0,54.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOCCITANFP21W,0,33.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOEQU5INT19W,0,72.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOFRA5INT19W,0,72.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOGDOCCI20W,0,40.5,0,0,0.0,Men's,not available,Men's Shower Gel & Soap,,male
+PPLDUOGDVER23W,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPLDUOGDVERVAGR21W,0,40.5,0,0,0.0,Body,not available,Shower gel,,female
+PPLDUOGENTLE19W,0,44.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOHCVOL21W,0,44.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOHERB21W,0,41.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOHEREAU21W,0,41.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOKARUL22W,0,68.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOKARUR21W,0,68.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOOSMAN21W,0,41.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOPUR22W,0,44.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLDUOREF23W,0,39.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLDUOREPAIR22W,0,44.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLDUOSH5FRA19W,0,61.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOSHFRAI19W,0,50.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLDUOSHHYD21W,0,19.5,0,0,0.0,Hair,not available,Solid Shampoos,,female
+PPLDUOSLKAR20W,0,45.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,,female
+PPLDUOTSGEN22W,0,12.0,1,0,0.22580645161290322,Hair,not available,Hair Conditioners,Aromacología,female
+PPLDUOVER21W,0,41.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOVERAG21W,0,41.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLESSEN23W,0,88.0,1,0,0.1963470319634703,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLEXCLUSTVAL23W,0,28.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Flores de Cerezo,female
+PPLFDCN21W,0,77.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,,female
+PPLGDCAPCE20W,0,40.5,0,0,0.0,Men's,not available,Men's Shower Gel & Soap,,male
+PPLGWP20FDM23,0,11.0,1,0,0.21428571428571427,Gifts,not available,Body Gift Boxes,,female
+PPLGWP80FDM23,0,22.0,1,0,0.18518518518518517,Gifts,not available,Body Gift Boxes,,female
+PPLGWPCM22W,0,27.5,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLGWPSUMM22W,0,20.5,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLGWPTRFC22W,0,25.0,1,0,0.15254237288135594,Gifts,not available,Face Gift Boxes,,female
+PPLHAIRAMAN21W,0,36.0,0,0,0.0,Hair,not available,Shampoos,,female
+PPLKARFDM23W,0,55.0,1,0,0.19708029197080293,Gifts,not available,Perfume Gift Boxes,Karité,female
+PPLLIQSOL23W,0,65.0,1,0,0.14473684210526316,Gifts,not available,Body Gift Boxes,Verbena,female
+PPLNEWYEAN22W,0,23.0,1,0,0.17857142857142858,Gifts,not available,Body Gift Boxes,,female
+PPLOCCIFDP23W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,L'OCCITANE,female
+PPLOCCIN22W,0,65.0,1,0,0.15584415584415584,Gifts,not available,Perfume Gift Boxes,L'OCCITANE,female
+PPLOSMANVAL22W,0,59.0,1,0,0.14492753623188406,Gifts,not available,Perfume Gift Boxes,,female
+PPLPARFOSMAN21W,0,77.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,,female
+PPLPARFPOIRN22W,0,72.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Rosa Pera,female
+PPLPARVERV22W,0,65.0,1,0,0.19254658385093168,SALE,not available,Discounted Gift Boxes & Kits,Verbena,female
+PPLPARVERVN22W,1,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+PPLPREFDM23W,0,69.0,1,0,0.17365269461077845,Gifts,not available,Body Gift Boxes,Preciosa Siempreviva,female
+PPLREGJUN23W,0,80.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Aromacología,female
+PPLRESAQR21W,0,93.0,0,0,0.0,Face,not available,Serum & Face Oil,,female
+PPLRESETFDM22W,0,65.0,1,0,0.2696629213483146,SALE,not available,Discounted Gift Boxes & Kits,,female
+PPLRESGELAQR21W,0,93.0,0,0,0.0,Face,not available,Serum & Face Oil,,female
+PPLRESTRIPH21W,0,137.0,0,0,0.0,Face,not available,Serum & Face Oil,,female
+PPLROUTPUR21W,0,56.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLTRIAM23W,0,23.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLTRIAMAN23W,0,24.0,1,0,0.1111111111111111,Gifts,What do you look for?,Gift Ideas,Almendra,female
+PPLTRIDOU23W,0,50.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLTRIFCFDM23W,0,34.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+PPLTRIFDC23W,0,24.0,1,0,0.12727272727272726,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+PPLTRIFLEU23W,0,46.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLTRIHYD23W,0,53.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLTRIMEN23W,0,24.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Cap Cédrat,male
+PPLTRINERO23W,0,24.0,1,0,0.12727272727272726,Gifts,not available,Body Gift Boxes,Nerolí Orquídea,female
+PPLTRINIF23W,0,46.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLTRINU23W,0,53.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+PPLTRIOAM23W,0,40.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLTRIOFDC23W,0,23.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+PPLTRIVEFDM23W,0,34.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPLWEL15N22W,1,6.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+PPLWEL35N22W,0,11.0,1,0,0.15384615384615385,Gifts,not available,Body Gift Boxes,,female
+PPLWEL50N22W,0,14.0,1,0,0.2,Gifts,What do you look for?,Gift Ideas,,female
+PPLWEL60N22W,1,21.0,1,0,0.17647058823529413,Gifts,not available,Body Gift Boxes,,female
+PPLWELC1N21W,0,6.5,1,0,0.23529411764705882,Gifts,What do you look for?,Gift Ideas,,female
+24GM075C21,0,9.5,1,0,0.4722222222222222,Hands,not available,Hand cream,Flores de Cerezo,female
+29RH500A15,0,31.0,0,1,0.0,Body,not available,Shower gel,Almendra,female
+29SC100A23,0,39.0,0,0,0.0,Body,not available,Body Mists,Almendra,female
+PPLDUOAMD17,0,62.0,0,0,0.0,Body,not available,Shower gel,,female
+PPLDUOECOALM18,0,51.0,0,0,0.0,Body,not available,Shower gel,,female
+PPLDUOHUIL23W,0,45.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+11GD250H23,0,11.2,1,0,0.30000000000000004,Body,not available,All body care products,Herbae par L'OCCITANE,female
+15GD070VB21,0,6.0,0,0,0.0,Body,not available,Shower gel,Verbena,female
+27DC050I23,1,91.0,0,1,0.0,Face,not available,Facial moisturizers,Divina Siempreviva,female
+24GD500C21,0,19.6,1,0,0.29999999999999993,Body,not available,Shower gel,Flores de Cerezo,female
+24LC500CB21,0,44.0,0,0,0.0,Body,not available,All body care products,Flores de Cerezo,female
+01CMR500K20,1,21.0,0,0,0.0,Body,not available,All body care products,Karité,female
+11LC250H23,0,17.5,1,0,0.3,Body,not available,All body care products,Herbae par L'OCCITANE,female
+17RC500E20,0,33.0,0,0,0.0,Hair,not available,Hair Conditioners,Aromacología,female
+PPLDUOMOUSS20W,0,45.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,,female
+11BH050A18,0,12.0,1,0,0.2,Face,not available,Face mist,Aqua Réotier,female
+11EH040A19,0,5.25,1,0,0.3,Face,not available,Face cleanser & toner,Aqua Réotier,female
+11ET030O21,0,29.0,0,0,0.0,Perfume,not available,All perfumes,Osmanthus,female
+17SE100FV21,0,29.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+20FE020H20,0,14.0,0,0,0.0,Men's,not available,Men's Face Care,Cade,male
+01SL300LV20,0,16.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+11EDP090C20,0,96.0,1,0,0.2,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+11LC250NO23,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Neroli Orquídea,female
+24GD075R22,0,6.0,0,0,0.0,Body,not available,Shower gel,Rosa,female
+29SC050A23,0,24.0,0,0,0.0,Best sellers,not available,New Products,Almendra,female
+PPLDUO2SLKAR20W,0,37.0,0,0,0.0,Body,not available,Eco-recharges de cuerpo,,female
+01SL300LV23,0,16.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+12GD250NO23,0,16.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Neroli Orquídea,female
+15GD500VB23,0,28.0,0,1,0.0,Body,not available,Shower gel,Verbena,female
+15ET100VCL23,0,56.0,0,0,0.0,Perfume,not available,All perfumes,Verbena Flores de Zanahoria,female
+01RL500K23,3,21.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01RV500K23,1,21.0,0,1,0.0,Body,not available,Shower gel,Karité,female
+15BR050VBM23,0,16.0,0,0,0.0,Body,not available,Body Mists,Verbena Menta,female
+15CM030LB23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Lavanda Blanca,female
+15DE200VAL23,0,20.0,0,0,0.0,Body,not available,Body scrub,Verbena Cítricos,female
+15EDT050LB23,1,49.0,0,1,0.0,Perfume,not available,Eau de toilette,Lavanda Blanca,female
+15GC150VBL23,0,26.0,0,0,0.0,Body,not available,All body care products,Verbena,female
+15GD070VB23,0,6.0,0,0,0.0,Body,not available,Shower gel,Verbena,female
+15GD250LB23,0,16.0,0,0,0.0,Body,not available,Shower gel,Lavanda,female
+15GD250VA23,0,16.0,0,0,0.0,Body,not available,Shower gel,Verbena,female
+15GD250VCL23,0,16.0,0,0,0.0,Body,not available,All body care products,Verbena,female
+15GP010LB23,0,16.0,0,0,0.0,Perfume,not available,Eau de toilette,Lavanda Blanca,female
+15LC125VB21,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+15LC250LB23,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Lavanda,female
+15LC250VCL23,0,25.0,0,0,0.0,Body,not available,All body care products,Verbena,female
+15MA030VCL23,0,9.0,0,0,0.0,Hands,not available,All hand care products,Verbena,female
+18GD050TL17ET,0,3.0,1,0,0.5,Body,not available,Shower gel,Terre de Lumière,female
+CWOC000004292,0,26.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+CWOC000004293,0,26.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+CWOC000004294,0,26.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Aromacología,female
+CWOC000004455,0,26.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda Blanca,female
+PPLCARRO23W,0,74.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena Zanahoria,female
+PPLCITVERV23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena Cítricos,female
+PPLLBODYLV23W,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda Blanca,female
+PPLSHEBODLV23W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLSUMLV23W,0,49.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLTRIVB23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+PPLVBODYLV23W,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+PPLWHILALV23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Lavanda Blanca,female
+15LC250VBM22,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+PPLGWP90VER22W,0,25.0,1,0,0.20634920634920634,Gifts,not available,Body Gift Boxes,,female
+15RC500VB23,2,24.5,0,0,0.0,Body,not available,Shower gel,Verbena,female
+01PI150K23,0,24.0,0,1,0.0,Body,not available,Foot care,Karité,female
+17HB050A22C,1,32.0,0,0,0.0,Hair,not available,Scalp Care,Aromacología,female
+11EP090PB18,0,120.0,0,0,0.0,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+15GD075LB23,0,6.0,0,0,0.0,Body,not available,Shower gel,Lavanda Blanca,female
+20GR150H20,0,15.0,0,0,0.0,Men's,not available,Shaving & aftershave,Cade,male
+23ET050TL22,0,55.0,0,0,0.0,Perfume,not available,Eau de toilette,Les Classiques,female
+24BR050CB22,0,15.0,0,0,0.0,Body,not available,Body Mists,Flores de Cerezo,female
+24RG500R23,0,24.5,0,0,0.0,Body,not available,Shower gel,Rosa,female
+29MA075A22,0,19.0,0,1,0.0,Hands,not available,Hand cream,Almendra,female
+29MA150A22,1,24.0,0,1,0.0,Hands,not available,Hand cream,Almendra,female
+01LTV300K23,1,29.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+PPLDUO300SLKAR23W,0,37.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOAMD23W,0,66.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLDUOSLKAR23W,0,45.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPL2LBODYLV23W,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Lavanda Blanca,female
+27BD060I23,2,39.0,0,0,0.0,Face,not available,Make-up removers,Divina Siempreviva,female
+15LC070VB23,0,9.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+12ET075NO23,1,60.0,0,1,0.0,Perfume,not available,Eau de toilette,Nerolí Orquídea,female
+20ET075HC21,0,56.0,0,1,0.0,Perfume,Perfumes for Men,All men's perfumes,Cap Cédrat,female
+PPLCRMDIVTRFC23,0,255.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+01NC050I23,0,59.0,0,0,0.0,Face,not available,Facial moisturizers,Preciosa Siempreviva,female
+11CM030SO23,1,8.5,0,0,0.0,Hands,not available,Hand cream,Solidario,female
+27HC050I23,7,155.0,0,0,0.0,Face,not available,Facial moisturizers,Harmonie Divine,female
+27HCR050I23,0,135.0,0,0,0.0,Face,not available,Facial moisturizers,Harmonie Divine,female
+27HD200I23,0,25.0,0,0,0.0,Face,not available,Make-up removers,Preciosa Siempreviva,female
+27HS030I23,0,170.0,0,0,0.0,Face,not available,Serum & Face Oil,Harmonie Divine,female
+27MP150I23,2,25.0,0,0,0.0,Face,not available,Make-up removers,Preciosa Siempreviva,female
+49ACHARMI23,0,29.0,0,0,0.0,Face,not available,Facial moisturizers,Divina Siempreviva,female
+CWOC000004335,0,21.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004336,0,35.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+CWOC000004566,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLCRMHARMFC23,0,318.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Harmonie Siempreviva,female
+PPLDIVDUOFC23W,0,99.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLDIVTRIOFC23W,0,199.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLIMMTRIOFC23W,0,149.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLPDISCRDFC23W,0,18.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,Reset Siempreviva,female
+PPLPREDUO2FC23W,0,80.0,1,0,0.09090909090909091,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+PPLPREDUOFC23W,0,79.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Reset Siempreviva,female
+PPLSHEARESFC23W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Reset Siempreviva,female
+PPLTRDIV23W,0,25.0,1,0,0.13793103448275862,Gifts,What do you look for?,Gift Ideas,Preciosa Siempreviva,female
+10CACLA23,1,64.0,0,1,0.0,Gifts,All Gift Boxes,Advent Calendars,Accesorios,female
+10CAMAG23,0,129.0,0,0,0.0,Gifts,All Gift Boxes,Advent Calendars,Accesorios,female
+29ASH240A21,0,18.0,0,0,0.0,Hair,not available,Hair Conditioners,Almendra,female
+29SH240A22,0,18.0,0,0,0.0,Hair,not available,Shampoos,Almendra,female
+27ORR050I21,0,79.0,0,0,0.0,Face,not available,Serum & Face Oil,Reset Siempreviva,female
+PPLUOHARM23W,0,299.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Harmonie Siempreviva,female
+01LC250K24,0,29.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+11EP090FM18,0,96.0,1,0,0.2,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+12GD075NO22,0,6.0,0,0,0.0,Body,not available,Shower gel,Neroli Orquídea,female
+38MI150A22,0,24.0,0,0,0.0,Face,not available,Facial cleansers,Reina Blanca,female
+PPL2IMMTRIOFC23W,0,149.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+01SA050KV20,0,4.8,1,0,0.20000000000000004,Hands,not available,Hand Soap,Karité,female
+PPL2DIVTRIOFC23W,0,199.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+15DB050VB19,0,17.0,0,0,0.0,Body,not available,Deodorant,Verbena,female
+49CLEMAGI,0,5.0,0,0,0.0,Hands,not available,All hand care products,Accesorios,female
+CWOC000004214,0,209.0,0,0,0.0,Gifts,All Gift Boxes,Advent Calendars,,female
+PPL2REFILLN2W,0,175.0,0,0,0.0,Gifts,All Gift Boxes,Advent Calendars,,female
+29ASH075A21,0,7.5,0,0,0.0,Hair,not available,Hair Conditioners,Almendra,female
+27ER150I23,0,75.0,0,0,0.0,Face,not available,Facial cleansers,Reset Siempreviva,female
+01BP150K23,1,29.0,0,1,0.0,Body,not available,Foot care,Karité,female
+11CF100TR23,0,29.0,0,0,0.0,Home,not available,Perfume diffusers,Art de Vivre,female
+15MA075VB23,6,19.0,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15RG500L21,0,21.0,0,1,0.0,Hands,not available,Hand Soap,Lavanda,female
+20ET075CD22,0,56.0,0,0,0.0,Perfume,not available,Eau de toilette,Eau de Cédrat,female
+29HD500A22,3,35.0,0,1,0.0,Body,not available,Shower gel,Almendra,female
+24AS240R23,0,18.0,0,0,0.0,Hair,not available,Hair Conditioners,Rosa,female
+11CCD250NE23,0,16.0,0,0,0.0,Body,not available,Shower gel,Forgotten Flowers,female
+11CM030BA23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Forgotten Flowers,female
+11CM030NE22,0,8.5,0,0,0.0,Hands,not available,Hand cream,Forgotten Flowers,female
+11CR030ME22,0,8.5,0,0,0.0,Hands,not available,Hand cream,Forgotten Flowers,female
+11EDP050ME22,0,69.0,0,0,0.0,Perfume,not available,Eau de parfum,Forgotten Flowers,female
+11EDP050NE22,1,69.0,0,0,0.0,Perfume,not available,Eau de parfum,Forgotten Flowers,female
+11EDP50BA23,0,69.0,0,0,0.0,Perfume,not available,Eau de parfum,Forgotten Flowers,female
+11GD250BA23,0,16.0,0,0,0.0,Body,not available,Shower gel,Forgotten Flowers,female
+11GD250ME22,0,16.0,0,0,0.0,Body,not available,Shower gel,Forgotten Flowers,female
+11LC250BA23,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Forgotten Flowers,female
+11LC250ME22,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Forgotten Flowers,female
+11LC250NE22,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Forgotten Flowers,female
+01SA050KL20,0,6.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+01SA500KRO22,0,24.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+11EP090MI18,0,96.0,1,0,0.2,Perfume,not available,Eau de parfum,L'OCCITANE x Pierre Hermé,female
+15GD250VB23,1,16.0,0,1,0.0,Body,not available,Shower gel,Verbena,female
+15LC250VA23,0,25.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+15LC250VB23,0,25.0,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Verbena,female
+PPLDUOECOALM23W,0,51.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+01ORKAR23,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+10ORMEN23,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Hombre,male
+15ORVER23,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+20GR150H23,0,15.0,0,0,0.0,Men's,not available,Shaving & aftershave,Cade,male
+20NV150H23,0,20.0,0,0,0.0,Face,not available,Facial cleansers,Cade,female
+24ORCHB23,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+29ORALM23,0,12.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+CWOC000004405,0,29.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+CWOC000004413,0,29.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Reset Siempreviva,female
+CWOC000004414,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004415,0,75.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+CWOC000004416,0,75.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Reset Siempreviva,female
+CWOC000004418,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+CWOC000004419,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+CWOC000004420,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Nerolí Orquídea,female
+CWOC000004425,0,39.5,0,0,0.0,Gifts,not available,Gifts for the home,"Karité,Art de Vivre",female
+CWOC000004426,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+CWOC000004427,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004428,0,50.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004429,0,65.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+CWOC000004430,0,10.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+CWOC000004431,0,10.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Verbena,female
+CWOC000004432,0,10.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004433,0,19.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+CWOC000004434,0,19.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+CWOC000004435,0,25.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004436,1,24.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004437,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004438,0,23.5,0,0,0.0,Gifts,not available,Body Gift Boxes,L'OCCITANE,male
+CWOC000004440,0,7.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004513,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLALMDUOXM23W,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLALMPREMIUMXM23W,0,99.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLBAUXPERFXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Baux,female
+PPLBOXKDON23W,0,3.0,0,0,0.0,Gifts,not available,All Gift Boxes,,female
+PPLCAPPERFXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPLCBPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+PPLCEDRATBODYXM23W,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Cédrat,female
+PPLDIVFCXM23W,0,109.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLDIVPFCXM23W,0,199.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Divina Siempreviva,female
+PPLDIVTRIOXM23W,0,199.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLLAVPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Lavanda,female
+PPLMBBODYXM23W,0,49.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Noble Épine,female
+PPLMBPERFUMEXM23W,0,93.5,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Noble Épine,female
+PPLMENSHAVINGXM23W,0,35.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Cade,female
+PPLMENSHOWERXM23W,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Cap Cédrat,male
+PPLNOPERFUMEXM23W,0,74.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Nerolí Orquídea,female
+PPLOSPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Osmanthus,female
+PPLPARFOCCXMAS23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,L'OCCITANE,female
+PPLPRECPFCXM23W,0,159.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Reset Siempreviva,female
+PPLSHEAFCXM23W,0,55.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLSOLIDKITXM23W,0,39.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Bonne Mère,female
+PPLVBPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+01BL012KP23H,0,9.0,0,0,0.0,Face,not available,Lip balm,Karité,female
+01CD250KP23H,0,16.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01LC250KP23H,0,29.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01MA030KP23H,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01MA150KP23H,0,24.0,0,0,0.0,Hands,not available,Hand cream,Karité,female
+01SA050KP23H,0,5.0,0,0,0.0,Hands,not available,Hand Soap,Karité,female
+29BB018A23H,0,3.5,0,0,0.0,Body,not available,Foaming Bath,Almendra,female
+29HD250A23H,0,20.0,0,0,0.0,Body,not available,Shower gel,Almendra,female
+29LC200A23H,0,46.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+29MA030A23H,0,8.5,0,0,0.0,Hands,not available,Hand cream,Almendra,female
+01LD200KV23,0,20.0,0,0,0.0,Face,not available,Make-up removers,Karité,female
+01NS075KV23,0,18.0,0,0,0.0,Face,not available,Facial cleansers,Karité,female
+24GD250CB22,0,16.0,0,0,0.0,Body,not available,Shower gel,Flores de Cerezo,female
+PPLLTDHCTRIOXM23,0,21.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLMBDISCBBXM23,0,24.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Unforgettable Flowers,female
+01EM200KV23,0,20.0,0,0,0.0,Face,not available,Facial cleansers,Karité,female
+15GD500VA20,0,28.0,0,0,0.0,Body Care,not available,Shower gel,Verbena,female
+10KTFRADISC22,0,10.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Honey Harvest,female
+38EC015A18,0,40.0,0,0,0.0,Face,not available,Eye Contour,Reina Blanca,female
+PPLBESTHCTRIOXM23,0,21.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+27MP050I23,0,10.5,0,0,0.0,Face,not available,Make-up removers,Preciosa Siempreviva,female
+20ET075OC21,0,56.0,0,0,0.0,Perfume,not available,Eau de toilette,L'OCCITANE,female
+11BC045G23,0,24.0,0,0,0.0,Hair,not available,All hair care products,Aromacología,female
+01CE200KC22H,0,25.0,0,0,0.0,Body,not available,All body care products,Karité,female
+01CF050K22,0,26.4,1,0,0.1483870967741936,SALE,not available,Discounted Products,Karité,female
+01SAR500KR20,0,12.6,1,0,0.4,Hands,not available,Eco hand soap refill,Karité,female
+01SAR500KRO22,0,14.7,1,0,0.30000000000000004,Body,not available,All body care products,Karité,female
+20GD250BF22,0,9.0,1,0,0.4,Body,not available,Shower gel,Men La Collection,female
+15MA030L23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Lavanda,female
+15MA030VA24,0,8.5,0,0,0.0,Hands,not available,Hand cream,Verbena,female
+15MA075L22,0,19.0,0,0,0.0,Hands,not available,Hand cream,Lavanda,female
+24GD500R23,0,28.0,0,0,0.0,Body,not available,Shower gel,Rosa,female
+27ER050I23,0,35.0,0,0,0.0,Face,not available,Facial cleansers,Reset Siempreviva,female
+01SL0045K23,3,9.0,0,0,0.0,Face,not available,Lip balm,Karité,female
+01LC075K24,1,10.5,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+CWOC000004165,0,15.5,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLBAUXPERFBKXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Baux,female
+PPL2OSPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Osmanthus,female
+PPL2CEDRATBODYXM23W,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Cédrat,female
+01BL012K23,0,9.0,0,0,0.0,Face,not available,Lip balm,Karité,female
+01CN125KV23,0,22.0,0,0,0.0,Face,not available,Facial cleansers,Karité,female
+01HD250K23,1,20.0,0,0,0.0,Body,not available,Shower gel,Karité,female
+01SL300VE23,0,16.0,0,0,0.0,Hands,not available,Hand Soap,Shea Butter,female
+11EP050H21,0,69.0,0,0,0.0,Perfume,not available,Eau de parfum,Herbae par L'OCCITANE,female
+15CM030LB24,0,8.5,0,0,0.0,Hands,not available,Hand cream,Lavender,female
+15SH250VA23,0,18.0,0,0,0.0,Hair,not available,Shampoos,Verbena,female
+PPL2SHEAFCXM23W,0,55.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+15BA500L21A,0,30.0,0,0,0.0,Body,not available,Foaming Bath,Lavanda,female
+PPL2AMPREMIUMXM23W,0,99.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPL2MENSHAVINGXM23,0,35.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Cade,female
+24RG500CB22,0,24.5,0,0,0.0,Body,not available,Shower gel,Flores de Cerezo,female
+01MA030K24,1,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+PPL2CBPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+PPL2DIVTRIOXM23W,0,199.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPL2LAVPERFUMXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Lavanda,female
+PPL2MENSHOWERXM23W,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Cap Cédrat,male
+PPL2PRECPFCXM23W,0,159.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Reset Siempreviva,female
+PPL2VBPERFUMEXM23W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+PPL3SHEAFCXM23W,0,55.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLCHERRYBOXM23W,0,39.5,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+01BL012KG22H,0,7.7,1,0,0.14444444444444443,SALE,not available,Discounted Products,Karité,female
+11GD250NO22H,0,11.2,1,0,0.30000000000000004,Body,not available,All body care products,Neroli Orquídea,female
+15GG150VAL22,0,14.7,1,0,0.41200000000000003,SALE,not available,Discounted Products,Verbena,female
+15NE065V21,0,7.0,0,1,0.0,Hands,not available,All hand care products,Verbena,female
+18BI030TL17,0,4.3,1,0,0.5222222222222223,Hands,not available,All hand care products,Terre de Lumière,female
+20SA050O20,0,4.0,1,0,0.2,SALE,not available,Discounted Products,L'OCCITANE,female
+24GD250CBL23,0,11.2,1,0,0.30000000000000004,Body,not available,All body care products,Flores de Cerezo,female
+24LC250CBL23,0,17.5,1,0,0.3,Body,not available,All body care products,Flores de Cerezo,female
+PPLDISCFDM22W,0,18.0,1,0,0.18181818181818182,SALE,not available,Discounted Gift Boxes & Kits,Siempreviva Divina,female
+PPLOCCFDP23W,0,29.0,1,0,0.2054794520547945,SALE,not available,Discounted Gift Boxes & Kits,L'OCCITANE,female
+PPLPRECN22W,0,86.5,0,0,0.0,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+PPLVERVFDM23W,0,61.0,1,0,0.14084507042253522,SALE,not available,Discounted Gift Boxes & Kits,Verbena,female
+CWOC000003331,0,12.4,1,0,0.22499999999999998,SALE,not available,Discounted Gift Boxes & Kits,,female
+CWOC000004467,0,22.5,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+CWOC000004473,0,18.0,0,0,0.0,Gifts,What do you look for?,Gift Ideas,,female
+CWOC000004552,0,15.8,1,0,0.31304347826086953,Gifts,What do you look for?,Gift Ideas,Lavanda Blanca,female
+PPL2GWP20AM23W,0,11.0,1,0,0.2413793103448276,SALE,not available,Discounted Gift Boxes & Kits,,female
+PPLGWP20DIV23W,0,8.5,0,0,0.0,Gifts,not available,Face Gift Boxes,,female
+PPLGWP2JAN23W,0,21.0,1,0,0.20754716981132076,SALE,not available,Discounted Gift Boxes & Kits,,female
+CWOC000004476,0,21.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+CWOC000004673,0,19.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Rosa,female
+CWOC000004674,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLCAPCEDRAT24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPLCHERRYFRA24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Flores de Cerezo,female
+PPLLIGHTRESET24W,0,95.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLNEROLIFRAG24W,0,62.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Nerolí Orquídea,female
+PPLRICHRESET24W,0,95.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLROSEPEAFRAG24W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Rosa,female
+PPLSHEABODYSB24W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLSKINCAREDIS24W,0,19.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+PPLSOLIDSB24W,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+PPLVERBENAFRA24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+01PI030K23,0,8.5,0,0,0.0,Body,not available,Foot care,Karité,female
+CWOC000004348,0,10.0,1,0,0.23076923076923078,SALE,not available,Discounted Gift Boxes & Kits,,female
+PPLECTOR22W,0,10.0,1,0,0.2,Gifts,What do you look for?,Gift Ideas,,female
+01CP100K23H,0,24.5,0,1,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+24CC150R23H,0,26.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Rosa,female
+24CM030R23H,0,8.5,0,0,0.0,Hands,not available,Hand cream,Rosa,female
+24ET050R23H,0,49.0,0,0,0.0,Perfume,not available,Eau de toilette,Rosa,female
+24GD250R23H,0,16.0,0,0,0.0,Body,not available,Shower gel,Rosa,female
+PPLFACELIGHTSB24W,0,55.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLFACERICHSB24W,0,55.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLHANDFCLIGHT24W,0,49.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+PPLHANDFCRICH24W,0,49.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Karité,female
+01MA075K22,0,19.0,0,0,0.0,Hands,not available,Hand cream,Karité,female
+PPLBOXFR24W,0,3.0,0,0,0.0,Gifts,not available,All Gift Boxes,Cade,female
+01EM030K24,0,10.0,0,0,0.0,Hands,not available,Hand scrub,Karité,female
+12MA030NO23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Neroli Orquídea,female
+15BM500VB23,0,30.0,0,0,0.0,Body,not available,Foaming Bath,Verbena,female
+PPL2CAPCEDRAT24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPL2CHERRYFRA24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Flores de Cerezo,female
+PPL2VERBENAFRA24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+PPL2ROSEPEAFRA24W,0,68.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Rosa,female
+24GD500CB21,0,28.0,0,0,0.0,Body,not available,Shower gel,Flores de Cerezo,female
+11GD250O22,0,16.0,0,0,0.0,Body,not available,Shower gel,Osmanthus,female
+PPL2SHEABODYSB24W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+11BE150R23,0,24.0,0,0,0.0,Face,not available,Facial cleansers,Réotier,female
+11CG125R23,0,22.0,0,0,0.0,Face,not available,Facial cleansers,Réotier,female
+11GC050R23,0,31.0,0,0,0.0,Face,not available,Facial moisturizers,Réotier,female
+11MF050R23,0,31.0,0,0,0.0,Face,not available,Facial moisturizers,Réotier,female
+29BB018A24,0,3.5,0,0,0.0,Body,not available,Foaming Bath,Almendra,female
+29CD200A24,0,20.0,0,0,0.0,Body,not available,Shower gel,Almendra,female
+38CV050A24,0,64.0,0,0,0.0,Face,not available,Facial moisturizers,Reine Blanche,female
+49MTAT24,0,15.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,,female
+CWOC000004632,0,19.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPL2BAUXFD24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Baux,female
+PPL2CADEFD24W,0,35.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Cade,female
+PPL2CAPFD24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPL2VBFD24W,0,69.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+PPLALMCASHIER24W,1,7.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLBAUXFD24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Baux,female
+PPLBODYCAREAM24W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLCADEFD24W,0,35.0,0,0,0.0,Gifts,not available,Body Gift Boxes,,female
+PPLCAPFD24W,0,59.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Cap Cédrat,female
+PPLEVERYDAYAM24W,0,29.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLIMMORTELLEAM24W,0,139.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPLPAMPERAM24W,0,75.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLSOFTSKINAM24W,0,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+PPLVBFD24W,1,69.0,0,0,0.0,Gifts,not available,Perfume Gift Boxes,Verbena,female
+38LV200A24,0,39.0,0,0,0.0,Face,not available,Facial cleansers,Reina Blanca,female
+29LC050A23,0,14.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Almendra,female
+01MR030K23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+11LC075NE22,0,9.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Forgotten Flowers,female
+29LC100A20,0,33.0,0,1,0.0,not available,not available,not available,Almendra,female
+PPL2BODYCAREAM24W,1,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+01LT300K23,0,29.0,0,0,0.0,Body,not available,Moisturizing Body Cream & Milk,Karité,female
+01MV030K23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Karité,female
+PPLSKINCAREDISC24W,0,19.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Preciosa Siempreviva,female
+15AS250VA23,0,18.0,0,0,0.0,Hair,not available,Hair Conditioners,Verbena,female
+24MA075P22,0,19.0,0,0,0.0,Hands,not available,Hand cream,Pivoine,female
+CWOC000004631,4,19.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Flores de Cerezo,female
+CWOC000004634,2,25.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
+CWOC000004640,3,19.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Karité,female
+11CM030HB23,0,8.5,0,0,0.0,Hands,not available,Hand cream,Herbae par L'OCCITANE,female
+11GD250H21,0,16.0,0,0,0.0,Body,not available,Shower gel,Herbae par L'OCCITANE,female
+15LM300L21,0,29.0,0,0,0.0,Hands,not available,Hand cream,Lavanda,female
+PPL2IMORTELLEAM24W,1,139.0,0,0,0.0,Gifts,not available,Face Gift Boxes,Divina Siempreviva,female
+PPL2SOFTSKINAM24W,1,49.0,0,0,0.0,Gifts,not available,Body Gift Boxes,Almendra,female
